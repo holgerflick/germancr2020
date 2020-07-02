@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/02/13 09:11:32.000.217,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/02/21 14:41:00.000.386,=d:\dev\Unit3.pas</Transaction>
+    <Transaction>2020/02/21 14:41:00.000.363,=d:\dev\Project1.html</Transaction>
+    <Transaction>2020/02/21 16:02:26.000.705,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/02/25 08:52:31.000.302,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/03/05 16:07:30.000.544,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/03/05 16:07:30.000.278,=d:\dev\Project1.html</Transaction>
+    <Transaction>2020/03/22 13:34:21.000.851,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/01 12:03:32.000.950,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/01 12:11:50.000.831,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/08 12:13:04.000.278,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/08 12:19:34.000.613,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/08 12:58:19.000.629,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/08 12:58:19.000.361,=d:\dev\Project1.html</Transaction>
+    <Transaction>2020/04/08 12:58:40.000.845,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/10 01:10:15.000.372,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/10 01:11:19.000.576,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 14:18:49.000.521,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 14:18:49.000.270,=d:\dev\Project1.html</Transaction>
+    <Transaction>2020/05/07 19:29:44.000.700,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/05/07 19:29:44.000.511,=d:\dev\Project1.html</Transaction>
+    <Transaction>2020/06/06 23:44:12.000.526,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/06/06 23:44:12.000.341,=d:\dev\Project1.html</Transaction>
+    <Transaction>2020/06/08 23:27:41.000.868,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/06/27 15:59:38.000.041,=d:\dev\Unit1.pas</Transaction>
+    <Transaction>2020/06/27 16:09:55.000.311,d:\dev\Unit1.dfm=D:\demo\cr2020\SimpleVCL\Unit1.dfm</Transaction>
+    <Transaction>2020/06/27 16:09:55.000.311,d:\dev\Unit1.pas=D:\demo\cr2020\SimpleVCL\Unit1.pas</Transaction>
+    <Transaction>2020/06/27 16:09:58.000.073,d:\dev\Project1.dproj=D:\demo\cr2020\SimpleVCL\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
